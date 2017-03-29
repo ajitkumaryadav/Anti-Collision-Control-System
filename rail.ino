@@ -17,10 +17,6 @@
  * CC3200 WiFi LaunchPad or CC3100 WiFi BoosterPack
    with TM4C or MSP430 LaunchPad
 
- created 25 Nov 2012
- by Tom Igoe
- modified 6 July 2014
- by Noah Luskey
  */
 #ifndef __CC3200R1M1RGC__
 // Do not include SPI for CC3200 LaunchPad
